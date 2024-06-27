@@ -44,7 +44,7 @@ note that I use arch btw :xdd: (srry lmao)
 
 ### Screenshots to give an idea
 
- ```
+ 
   *Compilation
      ![f2](https://github.com/archkr0w/archlxgger/assets/126942746/6965db6a-95ec-41fd-ac6b-b18b708b40ef)
 
@@ -58,7 +58,7 @@ note that I use arch btw :xdd: (srry lmao)
 ![f3](https://github.com/archkr0w/archlxgger/assets/126942746/8c38d5fd-f9cc-4a21-a498-027be7cff4e8)
 
 
- ```
+ 
 
 
 **any questions with the program, my ds is in the bio ✧.**
