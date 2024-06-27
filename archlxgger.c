@@ -92,7 +92,7 @@ int main() {
                 const char *keyname = libevdev_event_code_get_name(ev.type, ev.code);
                 if (keyname && strncmp(keyname, "KEY_", 4) == 0) {
                     keyname += 4; 
-                    //obtener la fecha y hora actual
+                    //obtiene la fecha y hora actual
                     time_t now;
                     struct tm *local_time;
                     char time_str[80];
