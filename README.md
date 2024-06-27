@@ -8,7 +8,7 @@
 
 **please make use of this program for educational purposes and to become enthusiastic about software knowledge and its practical uses.!!!!!!**
 
-this is basically a project created to keep track of your devices, both the word log and the date/time you logged in, which we could call a "keylogger".
+this is basically a project created to keep track of your devices, both the word log and the date/time you logged in, which we could call a **keylogger**.
 
 
 ### Aspects to be considered 👻
