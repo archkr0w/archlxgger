@@ -15,7 +15,7 @@ this is basically a project created to keep track of your devices, both the word
 
 one of the most important purposes is the lack of applications/scripts that can carry this count in a simple and native way in a UNIX/Linux operating system, so I will leave more details to consider for the perfect execution of this program.
 
-in line 52 is one of the quickest ways to get lost, since it is denoted under ' fd = open("/dev/input/event3", O_RDONLY);' , keep in mind that event3 is the device which is your keyboard that can vary different in each of its devices, one of the easiest ways to detect the input device in linux is using the tool "evtest", which if you run it will tell you which event is the device to consider these inputs by the program. (the ideal is to use it with sudo 🫣)
+in line 52 is one of the quickest ways to get lost, since it is denoted under ' fd = open("/dev/input/event3", O_RDONLY);' , keep in mind that event3 is the device which is your keyboard that can vary different in each of its devices, one of the easiest ways to detect the input device in linux is using the tool **evtest**, which if you run it will tell you which event is the device to consider these inputs by the program. (the ideal is to use it with **sudo** 🫣)
 
 ### Execution ⚡
 
