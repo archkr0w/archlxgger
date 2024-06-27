@@ -26,7 +26,7 @@ note that I use arch btw :xdd: (srry lmao)
  * GCC: GNU Compiler Collection for compiling C programs.
  * libevdev: Library for handling input devices in Linux.
 ```
-- `💉` **`kuronotori`**<br>
+- `💉` **`gcc`**<br>
 \\___[ gcc important to compile this<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `sudo pacman -Syyu`, `sudo pacman -S gcc`
 
