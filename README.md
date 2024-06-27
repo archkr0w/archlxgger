@@ -39,8 +39,24 @@ note that I use arch btw :xdd: (srry lmao)
 \\___[how to install libedev on arch <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `sudo pacman -Syyu`, `sudo pacman -S libedev`
 
+### Screenshots to give an idea
+
+ ```
+  *Compilation
+     ![f2](https://github.com/archkr0w/archlxgger/assets/126942746/6965db6a-95ec-41fd-ac6b-b18b708b40ef)
+
+  *.txt file generated
+ ![f1](https://github.com/archkr0w/archlxgger/assets/126942746/f151d175-2e2f-41f7-a2cf-9d009ab96d56)
+
+  *Example how it works
+
+![f4](https://github.com/archkr0w/archlxgger/assets/126942746/7c4a650c-d2db-4f92-a49a-d60b3acff190)
+
+![f3](https://github.com/archkr0w/archlxgger/assets/126942746/8c38d5fd-f9cc-4a21-a498-027be7cff4e8)
 
 
+ ```
 
 
+**any questions with the program, my ds is in the bio ✧.**
 
