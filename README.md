@@ -1,4 +1,9 @@
 # archlxgger
+
+![nasus-funny-message-to-dumb-arcueid-fans-tsukihime-no-v0-z9kldgq1syqb1](https://github.com/archkr0w/archlxgger/assets/126942746/bbe2d901-2b2f-4dd2-a739-7c935d30b8ee)
+
+
+
 ### Yo again! 🕊.
 
 this is basically a project created to keep track of your devices, both the word log and the date/time you logged in, which we could call a "keylogger".
