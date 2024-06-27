@@ -16,7 +16,7 @@
 #include <time.h>   //para trabajar con fechas y horas
 
 #define PATH "/home/tunmbrelol/Desktop/test.txt" //rutadondealojaeltxtameo
-#define MAX_EVENTS 100 //ajusta el tamaño 
+#define MAX_EVENTS 100 
 
 FILE *file;
 
