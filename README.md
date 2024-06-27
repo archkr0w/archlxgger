@@ -1,5 +1,5 @@
 # archlxgger
-### Yo again! 
+### Yo again! 🕊.
 
 this is basically a project created to keep track of your devices, both the word log and the date/time you logged in, which we could call a "keylogger".
 
@@ -9,7 +9,7 @@ one of the most important purposes is the lack of applications/scripts that can 
 
 in line 52 is one of the quickest ways to get lost, since it is denoted under ' fd = open("/dev/input/event3", O_RDONLY);' , keep in mind that event3 is the device which is your keyboard that can vary different in each of its devices, one of the easiest ways to detect the input device in linux is using the tool "evtest", which if you run it will tell you which event is the device to consider these inputs by the program. (the ideal is to use it with sudo 🫣)
 
-### Execution 
+### Execution ⚡
 
 All this was under a linux environment system so follow these commands:
 ```
@@ -19,7 +19,7 @@ All this was under a linux environment system so follow these commands:
  $ sudo ./keylogger
  $ easypeasy and is done.
 ```
-### Requeriments to install
+### Requeriments to install 🤖
 ```
 note that I use arch btw :xdd: (srry lmao)
 
