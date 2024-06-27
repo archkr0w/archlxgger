@@ -45,11 +45,11 @@ int main() {
     int fd;
     int rc = 1;
 
-    //redirigir stdout a /dev/null para evitar la salida de teclas en la terminal
+    //se redirreccion stdout a /dev/null para evitar la salida de teclas en la terminal
     freopen("/dev/null", "w", stdout);
 
     //abrir el dispositivo de entrada de teclado
-    fd = open("/dev/input/event3", O_RDONLY); //reemplaza X con el número de tu dispositivo de teclado
+    fd = open("/dev/input/event3", O_RDONLY); //reemplaza X con el numero de tu dispositivo de teclado
     if (fd < 0) {
         perror("No se puede abrir el dispositivo de input");
         exit(1);
