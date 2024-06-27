@@ -25,13 +25,14 @@ note that I use arch btw :xdd: (srry lmao)
 
  * GCC: GNU Compiler Collection for compiling C programs.
  * libevdev: Library for handling input devices in Linux.
+```
 
   \\___Installing GCC (GNU Compiler Collection)
     \\\_`sudo pacman -Syyu`, `sudo pacman -S gcc`
 
     \\___Installing libedev
      \\\_`sudo pacman -Syyu`, `sudo pacman -S libedev`
-```
+
 
 
 
