@@ -62,5 +62,5 @@ note that I use arch btw :xdd: (srry lmao)
  
 
 
-**any questions with the program, my ds is in the bio ✧.**
+
 
